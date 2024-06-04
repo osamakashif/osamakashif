@@ -41,5 +41,5 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
  # 📊 GitHub Statistics
-
-[![Osama's GitHub statistics](https://github-readme-stats.vercel.app/api?username=osamakashif&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Osama's GitHub Streak](https://streak-stats.demolab.com?user=osamakashif&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
